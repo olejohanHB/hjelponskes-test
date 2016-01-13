@@ -1,0 +1,133 @@
+
+body{
+	
+	background-image: url("img/background.jpg");
+    background-color: black;
+	size: relative;
+	background-size: cover;	
+}
+
+
+p{
+	color: #cccccc;
+}
+.leftbox{
+	font-size: 14px;
+	margin: 2%;
+	width: 25%;
+	padding: 20px 20px 20px;
+	background-color: black;
+	border-radius: 5px;
+	float: left;
+}
+	
+.centerbox{
+	font-size: 14px;
+	margin: 2%;
+	width: 25%;
+	padding: 20px 20px 20px;
+	background-color: black;
+	border-radius: 5px;
+	float: left;
+}	
+		
+.rightbox{
+	font-size: 14px;
+	margin: 2%;
+	width: 25%;
+	padding: 20px 20px 20px;
+	background-color: black;
+	border-radius: 5px;
+	float: left;	
+}
+
+
+header {
+	color: white;
+	font-stretch: 20%;
+	text-align: center;
+	font-size: 100px;
+  	font-family: 'Play', sans-serif;
+	background-color: rgba(255,255,255, 0.1);
+	border-radius: 5px;
+	margin-bottom: 25px;
+}
+
+
+
+address {
+    color: white;
+	font-stretch: 20%;
+	text-align: center;
+	font-size: 20px;
+  	font-family: 'Play', sans-serif;
+	background-color: rgba(255,255,255, 0.1);
+	border-radius: 5px;
+	margin-bottom: 25px;
+    bottom: 0;
+}
+
+nav {
+	font-family: 'Play', sans-serif;
+	color: black;
+	margin: 0 auto;
+	padding: 30px 30px 30px;
+	width: width;
+	background-color: rgba(25,25,255, 0.8);
+	border-radius: 5px;
+	margin-bottom: 25px;
+}
+
+.bottom {
+	font-size: 15px;
+	color: white;
+	font-family: 'Play', sans-serif; 
+	bottom: 0; 
+	width:100%; 
+	text-align: center;
+	padding: 30px 30px 30px;
+	background: rgba(0,0,0, 0.5);
+	background-size: 5px;
+	border-radius: 5px;
+}
+
+.videobackground {
+	color: white;
+	font-family: 'Play', sans-serif; 
+	text-align: center;
+	margin-right: 15px;
+	margin-left: 15px;
+	margin: 0 auto;
+	padding: 30px 30px 30px;
+	width: width;
+	background-color: rgba(0,0,255, 0.5);
+	border-radius: 5px;
+	margin-bottom: 25px;	
+}
+
+
+
+
+a:link {
+    text-decoration: none;
+	color: white;
+	font-family: 'Play', sans-serif; 
+}
+
+a:visited {
+    text-decoration: none;
+	color: white;
+	font-family: 'Play', sans-serif;
+}
+
+a:hover {
+    text-decoration: none;
+	color: white;
+	font-family: 'Play', sans-serif;
+}
+
+a:active {
+    text-decoration: none;
+	color: white;
+	font-family: 'Play', sans-serif;
+}
